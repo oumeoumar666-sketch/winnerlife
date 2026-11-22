@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036106721284",
+    "project_id": "winnerlife-app",
+    "storage_bucket": "winnerlife-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036106721284:android:d5137e89655ccff3cd6d51",
+        "android_client_info": {
+          "package_name": "com.example.winnerlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZTOKoQTIuJq6mpO7O8N3tMC9yfDwdSMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
